@@ -24,6 +24,6 @@ class factorial
 		 {
 		 	fact*=i;
 		 }
-		 System.out.print("fact"+fact);
+		 System.out.print("Factorial"+fact);
 	}
 }
